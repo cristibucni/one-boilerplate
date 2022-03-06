@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "target": "es2017",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": "./"
+  },
+  "exclude": ["node_modules", "dist"]
+}
